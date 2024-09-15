@@ -1,4 +1,4 @@
-[![MasterHead](https://img-s3.onedio.com/id-5494a30bad08b4ff291561b8/rev-0/w-900/h-505/f-gif/s-6ed98ff2d4f3741875e058a917edb6d0739c946d.gif)](https://rishavchanda.io)
+[![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-4a6f8aa2df.gif)](https://rishavchanda.io)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22759A&width=435&lines=Hi+There+!+%22%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%22;I'm+Likhith+SP%2C;Welcome+to+My+GitHub+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB!" alt="Typing SVG" /></a>
 

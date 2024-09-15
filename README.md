@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 🌱 Learning Node.js, React, Python, and Web Development.
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
-- ⚡ Fun fact: I love painting🎨 and listening to music🎧.
+- 🚀 Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
 
 
 <!--

@@ -12,6 +12,21 @@
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
 - 🚀 Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
 
+### 🧭 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvce0233&theme=algolia" alt="vvce0233's Github stats" /></td>
+      <td><img height="195px" alt="vvce0233's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vvce0233&theme=algolia&layout=compact" /></td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvce0233&theme=tokyonight" alt="github stats" />
+</p>
+
 
 <!--
 **vvce0233/vvce0233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

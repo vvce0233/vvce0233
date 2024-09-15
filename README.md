@@ -17,14 +17,14 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvce0233&theme=algolia" alt="vvce0233's Github stats" /></td>
-      <td><img height="195px" alt="vvce0233's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vvce0233&theme=algolia&layout=compact" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=algolia" alt="LikhithSP's Github stats" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=algolia&layout=compact" /></td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvce0233&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&theme=tokyonight" alt="github stats" />
 </p>
 
 

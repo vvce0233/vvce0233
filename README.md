@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vvce0233&label=PROFILE+VIEWS)
 
-<h3>🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast</h3>
-
+🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
 
 ### About Me ✍🏻:
 - 🔭 I’m currently working on Full-Stack Web Development.

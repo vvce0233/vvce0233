@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! ![Waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Welcome to my GitHub Profile!
 
 <!--
 **vvce0233/vvce0233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

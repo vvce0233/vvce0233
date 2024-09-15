@@ -8,7 +8,7 @@
 
 ### About Me ✍🏻:
 - 🔭 I’m currently working on Full-Stack Web Development.
-- 🌱 Learning Node.js, React, Python, and Web Development.
+- 🌱 Learning Node.js, React, Express.js, MongoDB, Python, and Web Development.
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
 - 🚀 Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
 

@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=vvce0233&label=PROFILE+VIEWS)
 
+![](https://visitcount.itsvg.in/api?id=vvce0233&label=Profile%20Views&color=1&icon=4&pretty=true)
+
 🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast  
 
 

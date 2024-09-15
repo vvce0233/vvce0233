@@ -1,4 +1,7 @@
-# Hello! 👋 Welcome to my GitHub Profile!
+# Hi there 👋
+## I'm Likhith SP!
+🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
+
 <!--
 **vvce0233/vvce0233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,14 @@
 [![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd0NHJnNHBwdjdzNmxrYTUwaWNoYjA2a3IwdWJyM2xqc2RoNXdoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp)](https://rishavchanda.io)
-# Hi there 👋
+## Hi there 👋
 ## I'm Likhith SP !
 🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
+
+### About Me ✍🏻:
+- 🔭 I’m currently working on Full-Stack Web Development.
+- 🌱 Learning Node.js, React, Python, and Web Development.
+- 👯 Looking to collaborate on Flutter & Web Source Projects.
+- ⚡ Fun fact: I love painting🎨 and listening to music🎧.
+
 
 <!--
 **vvce0233/vvce0233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

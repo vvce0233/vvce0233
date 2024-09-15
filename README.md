@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Likhith SP!
+## I'm Likhith SP !
 🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
 
 <!--

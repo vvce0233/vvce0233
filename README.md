@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd0NHJnNHBwdjdzNmxrYTUwaWNoYjA2a3IwdWJyM2xqc2RoNXdoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp)](https://rishavchanda.io)
 # Hi there 👋
 ## I'm Likhith SP !
 🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
